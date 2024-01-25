@@ -2,7 +2,7 @@
 -Este projeto foi desenvolvido com base no protótipo criado no Figma, com o objetivo principal de aprimorar habilidades em HTML, CSS e JavaScript.
 
 ## Objetivo de Treinamento:
--*HTML/CSS e JavaScript:* O projeto serve como uma oportunidade de treinar e aprimorar habilidades nessas tecnologias fundamentais para o desenvolvimento web.
+-**HTML/CSS e JavaScript:** O projeto serve como uma oportunidade de treinar e aprimorar habilidades nessas tecnologias fundamentais para o desenvolvimento web.
 
 ## Novas Implementações Futuras:
 -*Layout Horizontal:* desenvolverei uma versão do projeto com um layout horizontal, proporcionando uma experiência alternativa aos usuários.
