@@ -9,3 +9,4 @@
 - **Modo Escuro (Dark Mode):** Uma opção de tema escuro será implementada para aqueles que preferem uma interface mais suave durante a noite.
 
 Se tiver algum feedback ou sugestão, ficarei feliz em ouvir 😉
+ 
